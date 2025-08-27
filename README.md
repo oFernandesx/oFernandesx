@@ -15,7 +15,7 @@
 ---
 
 <h1 align="center">Sou Caio Pietro Fernandes</h1>
----
+
 
 
 estudante do 3º ano do Ensino Médio no SESI e do curso Técnico em Desenvolvimento de Sistemas no SENAI. Além disso, possuo formação em informática, o que me proporciona uma base sólida para explorar o universo da tecnologia e da programação.
