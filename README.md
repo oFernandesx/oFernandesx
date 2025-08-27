@@ -14,11 +14,24 @@
 
 ---
 
-- 💼 Atualmente trabalho com infraestrutura de TI.
-- 🔄 Migrando Carreira para Dev.
-- 📚 **Cursando:**
-   - Especialização em Cloud Computing
-   - Santander Bootcamp 2023 - Mobile com Flutter.
+Sou Caio Pietro Fernandes, estudante do 3º ano do Ensino Médio no SESI e do curso Técnico em Desenvolvimento de Sistemas no SENAI. Além disso, possuo formação em informática, o que me proporciona uma base sólida para explorar o universo da tecnologia e da programação.
+
+💻 Habilidades e Projetos:
+Estou em constante aprendizado, aprimorando minhas habilidades em desenvolvimento de sistemas, lógica de programação e soluções tecnológicas. Tenho interesse em contribuir para projetos inovadores que envolvam criação de sistemas, automação e integração de tecnologias.
+
+- Criação de um banco utilizando a linguagem Python.
+- Desenvolvimento de servidores.
+- Trabalho com o método Scrum para gerenciamento de projetos.
+- Experiência prática em lógica de programação e desenvolvimento de sistemas.
+
+🌱 Objetivo:
+Busco oportunidades para me conectar com o mercado de trabalho, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer como desenvolvedor.
+
+Competências:
+- Versatilidade
+- Trabalho em equipe
+- Facilidade no Aprendizado
+- Sempre busco por mais experiências
 
 ---
 
