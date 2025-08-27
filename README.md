@@ -1,7 +1,7 @@
 # 👋 Hi There! - Bem-vindo ao meu perfil!
 
 <p align="center">
-  <img src="[https://github.com/oFernandesx/oFernandesx/blob/main/assets/banner.png](https://github.com/user-attachments/assets/4379d739-f61b-4c8a-a132-4889eae41e0f)" alt="Banner com nome" width="100%" />
+  <img src="https://github.com/user-attachments/assets/4379d739-f61b-4c8a-a132-4889eae41e0f" alt="Banner com nome" width="100%" />
 </p>
 
 <p align="center">
