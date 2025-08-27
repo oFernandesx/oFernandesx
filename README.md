@@ -16,26 +16,36 @@
 
 <h1 align="center">Sou Caio Pietro Fernandes</h1>
 ---
+
+
 estudante do 3º ano do Ensino Médio no SESI e do curso Técnico em Desenvolvimento de Sistemas no SENAI. Além disso, possuo formação em informática, o que me proporciona uma base sólida para explorar o universo da tecnologia e da programação.
+
 
 
 💻 Habilidades e Projetos:
 Estou em constante aprendizado, aprimorando minhas habilidades em desenvolvimento de sistemas, lógica de programação e soluções tecnológicas. Tenho interesse em contribuir para projetos inovadores que envolvam criação de sistemas, automação e integração de tecnologias.
-<br>
+
+
+
 - Criação de um banco utilizando a linguagem Python.
 - Desenvolvimento de servidores.
 - Trabalho com o método Scrum para gerenciamento de projetos.
 - Experiência prática em lógica de programação e desenvolvimento de sistemas.
-<br>
+
+
+  
 🌱 Objetivo:
 Busco oportunidades para me conectar com o mercado de trabalho, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer como desenvolvedor.
-<br>
+
+
+
 Competências:
 - Versatilidade
 - Trabalho em equipe
 - Facilidade no Aprendizado
 - Sempre busco por mais experiências
-<br>
+
+  
 ---
 
 ## 📊 GitHub Stats
